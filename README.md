@@ -1,0 +1,2 @@
+# SurvivalGame
+基于openGL和js脚本开发的底层图形渲染游戏
